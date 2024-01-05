@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   height="1000"
+   width="1000"
+   sodipodi:docname="J.svg"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.3"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.39788848"
+     inkscape:cx="216.14096"
+     inkscape:cy="544.12231"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     inkscape:window-width="1512"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <sodipodi:guide
+       id="guide_baseline"
+       inkscape:label="baseline"
+       position="0,280"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide_ascender"
+       inkscape:label="ascender"
+       position="0,945"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide_caps"
+       inkscape:label="caps"
+       position="0,840"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide_xheight"
+       inkscape:label="xheight"
+       position="498.2182,720"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide_descender"
+       inkscape:label="descender"
+       position="0,28"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="8"
+       spacingy="8"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+    <sodipodi:guide
+       position="1080,1320"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50,520"
+       orientation="0,-1"
+       id="guide30"
+       inkscape:locked="false" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1000"
+       height="1000"
+       id="page48"
+       margin="0"
+       bleed="0" />
+    <sodipodi:guide
+       position="280,456"
+       orientation="1,0"
+       id="guide52"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="720,528"
+       orientation="1,0"
+       id="guide53"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <rect
+       x="128"
+       y="264"
+       width="256"
+       height="160"
+       id="rect14" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect24-9"
+       width="40"
+       height="40"
+       x="460"
+       y="-360"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect25-1"
+       width="40"
+       height="40"
+       x="460"
+       y="-320"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect26-7"
+       width="40"
+       height="40"
+       x="460"
+       y="-280"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect27-5"
+       width="40"
+       height="40"
+       x="460"
+       y="-240"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect28-5"
+       width="40"
+       height="40"
+       x="460"
+       y="-200"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect29-4"
+       width="40"
+       height="40"
+       x="500"
+       y="-200"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect43-8"
+       width="40"
+       height="40"
+       x="500"
+       y="-360"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect44-8"
+       width="40"
+       height="40"
+       x="500"
+       y="-320"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect45-3"
+       width="40"
+       height="40"
+       x="500"
+       y="-280"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect25-1-5"
+       width="40"
+       height="40"
+       x="460"
+       y="-480"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect26-7-8"
+       width="40"
+       height="40"
+       x="460"
+       y="-440"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect27-5-3"
+       width="40"
+       height="40"
+       x="460"
+       y="-400"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect44-8-6"
+       width="40"
+       height="40"
+       x="500"
+       y="-480"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect45-3-2"
+       width="40"
+       height="40"
+       x="500"
+       y="-440"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect46-5-2"
+       width="40"
+       height="40"
+       x="500"
+       y="-400"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect47-2"
+       width="40"
+       height="40"
+       x="540"
+       y="-200"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect2"
+       width="40"
+       height="40"
+       x="420"
+       y="160" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect10"
+       width="40"
+       height="40"
+       x="580"
+       y="160" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect11"
+       width="40"
+       height="40"
+       x="380"
+       y="160" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect1"
+       width="40"
+       height="40"
+       x="-540"
+       y="-600"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect2-3"
+       width="40"
+       height="40"
+       x="-540"
+       y="-640"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect4"
+       width="40"
+       height="40"
+       x="-540"
+       y="-600"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect8"
+       width="40"
+       height="40"
+       x="-540"
+       y="-560"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect10-9"
+       width="40"
+       height="40"
+       x="-500"
+       y="-680"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect11-9"
+       width="40"
+       height="40"
+       x="-420"
+       y="-720"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect12"
+       width="40"
+       height="40"
+       x="-380"
+       y="-720"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect13"
+       width="40"
+       height="40"
+       x="-300"
+       y="-680"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect14-9"
+       width="40"
+       height="40"
+       x="-340"
+       y="-560"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect24"
+       width="40"
+       height="40"
+       x="-300"
+       y="-640"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect25"
+       width="40"
+       height="40"
+       x="-300"
+       y="-600"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect27"
+       width="40"
+       height="40"
+       x="-300"
+       y="-640"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect31"
+       width="40"
+       height="40"
+       x="-340"
+       y="-720"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect32"
+       width="40"
+       height="40"
+       x="-340"
+       y="-600"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect35"
+       width="40"
+       height="40"
+       x="-500"
+       y="-600"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect36"
+       width="40"
+       height="40"
+       x="-500"
+       y="-640"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect42"
+       width="40"
+       height="40"
+       x="-500"
+       y="-560"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect50"
+       width="40"
+       height="40"
+       x="-460"
+       y="-680"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect51"
+       width="40"
+       height="40"
+       x="-460"
+       y="-640"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect3"
+       width="40"
+       height="40"
+       x="-540"
+       y="-520"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.52321;stroke-miterlimit:30.3;paint-order:markers fill stroke"
+       id="rect5"
+       width="40"
+       height="40"
+       x="-500"
+       y="-520"
+       transform="scale(-1)" />
+  </g>
+</svg>
